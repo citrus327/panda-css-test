@@ -5,6 +5,7 @@ const style = css({
   bg: "red",
   rounded: "222px",
   display: "flex",
+  color: "primary",
 });
 
 const style2 = css({
